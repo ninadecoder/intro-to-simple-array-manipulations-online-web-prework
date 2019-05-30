@@ -19,7 +19,7 @@ def using_shift(array)
   array.shift
 end
 
-def shitf_with_arg
+def shitf_with_arg(array)
   array.shift(2)
 end
 
